@@ -34,10 +34,10 @@ class Config(object):
     BAN_STICKER = getenv("BAN_STICKER", "")
     ALLOW_EXCL = True
     CUSTOM_CMD = False
-    CASH_API_KEY = getenv("CASH_API_KEY", "https://www.alphavantage.co/support/#api-key")
-    TIME_API_KEY = getenv("TIME_API_KEY", "https://timezonedb.com/api")
+    CASH_API_KEY = getenv("CASH_API_KEY", "X2CVXXY8BGSN1KN2")
+    TIME_API_KEY = getenv("TIME_API_KEY", "KRJJX1LLN4MY")
     WALL_API = getenv("WALL_API", "https://wall.alphacoders.com/api.php")
-    spamwatch_api = getenv("spamwatch_api", "https://t.me/SpamWatchBot")
+    spamwatch_api = getenv("spamwatch_api", "L6SqqK0BnCz6XaZ7oNzaR4yuCONVrzr0w1zzIz7j1ZQ2Uega0J3a375s9PfrFjbF")
     SPAMMERS = getenv("SPAMMERS", "")
     LASTFM_API_KEY = getenv("LASTFM_API_KEY", "https://www.last.fm/api/account/create")
     CF_API_KEY = getenv("CF_API_KEY", "coffehouse.intellivoid.net")
